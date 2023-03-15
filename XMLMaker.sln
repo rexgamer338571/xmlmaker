@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLMaker", "XMLMaker.csproj", "{817954A4-897F-4720-BB1F-3A95BF041950}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8570FE4C-F763-416B-B261-EAE78207E9DD}"
+	ProjectSection(SolutionItems) = preProject
+		RoundedTextBox.cs = RoundedTextBox.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817954A4-897F-4720-BB1F-3A95BF041950}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{817954A4-897F-4720-BB1F-3A95BF041950}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{817954A4-897F-4720-BB1F-3A95BF041950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817954A4-897F-4720-BB1F-3A95BF041950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85F831C1-E351-4B3F-A256-E6A724558D2D}
+	EndGlobalSection
+EndGlobal

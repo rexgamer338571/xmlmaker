@@ -1,0 +1,9 @@
+I:\xmlmaker\XMLMaker\bin\Debug\XMLMaker.exe.config
+I:\xmlmaker\XMLMaker\bin\Debug\XMLMaker.exe
+I:\xmlmaker\XMLMaker\bin\Debug\XMLMaker.pdb
+I:\xmlmaker\XMLMaker\obj\Debug\XMLMaker.Form1.resources
+I:\xmlmaker\XMLMaker\obj\Debug\XMLMaker.Properties.Resources.resources
+I:\xmlmaker\XMLMaker\obj\Debug\XMLMaker.csproj.GenerateResource.cache
+I:\xmlmaker\XMLMaker\obj\Debug\XMLMaker.csproj.CoreCompileInputs.cache
+I:\xmlmaker\XMLMaker\obj\Debug\XMLMaker.exe
+I:\xmlmaker\XMLMaker\obj\Debug\XMLMaker.pdb
