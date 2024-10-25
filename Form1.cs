@@ -189,7 +189,7 @@ namespace XMLMaker
             var request = new RestRequest("items/{type}/{no}/images/{color_id}", Method.Get);
             request.AddUrlSegment("type", "P");
             request.AddUrlSegment("number", number);
-            request.AddHeader("Authorization", "Bearer 7CCDCEF257CF43D89A74A7E39BEAA1E1");
+            request.AddHeader("Authorization", "apikey");
             var response = client.Execute(request);
 
             var jsonResponse = JObject.Parse(response.Content);
